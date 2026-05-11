@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+hot_news.json
+ai_news_result.txt
